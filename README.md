@@ -8,7 +8,6 @@ Sleep Sense is a data analysis project that explores the relationship between sl
 
 - [Introduction](#introduction)
 - [Key Features](#key-features)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Data Sources](#data-sources)
